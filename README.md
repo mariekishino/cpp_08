@@ -6,6 +6,29 @@ Milestone05, CommonCore
 
 独習C++ p.516
 ストラウストラップC++ p.955 
+`https://en.cppreference.com/cpp/container`
+
+### exercise
+ex00 主にシーケンスコンテナ
+ex01 vectorを使用
+ex02 コンテナアダプタ+内部のシーケンスコンテナ
+
+### ex00
+```
+STL
+├─ コンテナ
+│  ├─ vector
+│  ├─ list
+│  └─ deque
+│
+├─ iterator
+│  └─ beginからendまでの位置を表す
+│
+└─ アルゴリズム
+   ├─ find
+   ├─ sort
+   └─ copy
+```
 
 ### iterator とは？
 反復子と呼ばれ、コンテナ内の各要素を参照するときの、**ポインターのようなもの**
