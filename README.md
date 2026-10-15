@@ -47,3 +47,7 @@ STL
 1, 2, 3, 4	 　  を満たす  -> 順方向イテレーター(forward iterator)
 1, 2, 3, 4, 5	 を満たす  -> 双方向イテレーター(biderectional iterator)
 1, 2, 3, 4, 5, 6 を満たす  -> ランダムアクセスイテレーター(random access iterator)
+
+
+## ex01
+-> STLのコンテナ、アルゴリズムを使って、自分でルールを持ったクラスを設計する
