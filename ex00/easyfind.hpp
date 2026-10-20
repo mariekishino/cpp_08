@@ -17,7 +17,7 @@ std::find()
 // コンテナ型を一般化
 template <typename T>
 typename T::iterator		// easyfindの戻り値型
-easyfind(T& container, int value)
+easyfind(T &container, int value)
 {
 	typename T::iterator found = 	// iterator変数
 		std::find(					// STLアルゴリズム
