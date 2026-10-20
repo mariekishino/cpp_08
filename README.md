@@ -4,6 +4,12 @@ Milestone05, CommonCore
 ## コンテナとは？
 データを所有するもの
 
+## コンテナの分類:
+- シーケンスコンテナ (sequence container)
+- 連想コンテナ (assosiative container)
+- コンテナアダプタ (container adaptor)
+- コンテナ相当 (almost container)
+
 独習C++ p.516
 ストラウストラップC++ p.955 
 `https://en.cppreference.com/cpp/container`
