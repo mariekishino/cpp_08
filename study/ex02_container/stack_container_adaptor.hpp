@@ -17,6 +17,7 @@ class stack
 		explicit stack(C&& = C{});
 		
 		template
+		.....
 };
 
 #enfid
