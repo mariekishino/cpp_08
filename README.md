@@ -57,3 +57,12 @@ STL
 
 ## ex01
 -> STLのコンテナ、アルゴリズムを使って、自分でルールを持ったクラスを設計する
+
+
+
+## ex02
+
+コンテナアダプタの理解
+std::stack 			LIFO
+std::queue 			FIFO
+std::priority_queue 優先順位に従う(デフォルトでは最大の値を先に取り出す)
