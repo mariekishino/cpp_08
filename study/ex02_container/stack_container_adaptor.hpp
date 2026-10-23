@@ -18,6 +18,8 @@ class stack
 		
 		template
 		.....
+	protected:
+		C c; // これ！
 };
 
 #enfid
